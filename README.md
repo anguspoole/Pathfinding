@@ -3,10 +3,12 @@ This project has a ship move using Disjkstra to locate orbs, and A* to locate th
 
 By: Angus Poole
 
+## VIDEO
+https://www.youtube.com/watch?v=t24Mt801QlU
 
 ## INSTRUCTIONS
 
-Should be fine to run/compile with any configuration. I did most of my testing in x64 (Debug or Release).
+Compile/Run in Release/x64.
 
 Use WASDQE to move the camera. Hold left mouse button and move camera to rotate a bit (may be quite sensitive).
 
